@@ -1,6 +1,6 @@
-![](carpark-dash.gif)
+# Singapore Carpark Availability Real-time Dashboard
 
-# Singapore Carpark Availability Real-time Dashbaord
+![](carpark-dash.gif)
 
 A simple real-time dashboard that tracks Singapore carpark lots availability that is built on Python using primarily dash and plotly.
 
@@ -55,6 +55,7 @@ python carpark-dash.py
 > localhost:8050
 
 4. Explore the dashboard
+Be patient! Data points are collected in 1 minute intervals
 
 ## Authors
 
