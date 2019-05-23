@@ -54,7 +54,7 @@ python carpark-dash.py
 3. Open your browser of choice and visit localhost with the port stated
 > localhost:8050
 
-4. Explore the dashboard
+4. Explore the dashboard<br>
 Be patient! Data points are collected in 1 minute intervals
 
 ## Authors
