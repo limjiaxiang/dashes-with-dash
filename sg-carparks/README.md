@@ -23,19 +23,19 @@ git clone https://github.com/limjiaxiang/dashes-with-dash.git
 
 E.g. With Anaconda
 
-Create a separate environment
+1. Create a separate environment
 ```
 conda create -n yourenvname python=3.6 anaconda
 ```
 
-Activate environment
+2. Activate environment
 ```
 source activate yourenvname
 ```
 
-**Change current working directory on terminal to cloned repository directory where requirements.txt reside in**
+**3. Change current working directory on terminal to cloned repository directory where requirements.txt reside in**
 
-Install required libraries to newly created environment
+4. Install required libraries to newly created environment
 ```
 pip install -r requirements.txt
 ```
