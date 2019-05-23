@@ -33,7 +33,7 @@ conda create -n yourenvname python=3.6 anaconda
 source activate yourenvname
 ```
 
-**3. Change current working directory on terminal to cloned repository directory where requirements.txt reside in**
+3. Change current working directory on terminal to cloned repository directory where requirements.txt reside in
 
 4. Install required libraries to newly created environment
 ```
