@@ -25,7 +25,7 @@
 * [Python](https://www.python.org)
   * [Dash](https://plot.ly/dash/)
   
-## Current Dashboards:
+## Current Dashboards
 1. [Singapore Carpark Lot Availability Dashboard](sg-carparks/)
 
 <!-- CONTACT -->
