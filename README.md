@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/limjiaxiang/dashes-with-dash">
-    <img src="dash.png" alt="Logo" width="544" height="214">
+    <img src="dash.PNG" alt="Logo" width="544" height="214">
   </a>
   
   <h3 align="center">Dashboards with Dash</h3>
